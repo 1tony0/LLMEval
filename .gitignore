@@ -1,14 +1,14 @@
-# Python-related files
+#Python-related files
 __pycache__/
 *.py[cod]
 *.sqlite3
 
-# Virtual environment
+#Virtual environment
 venv/
 
-# Environment variables that is private 
+#Environment variables that is private 
 .env
 
-# Logs
+#Logs
 *.log
 
